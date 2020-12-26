@@ -1,0 +1,93 @@
+$date
+	Sat Dec 26 16:01:18 2020
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module testbench $end
+$scope module alu1 $end
+$var wire 8 ! A [7:0] $end
+$var wire 8 " ALU_Out [7:0] $end
+$var wire 4 # ALU_Sel [3:0] $end
+$var wire 8 $ B [7:0] $end
+$var wire 1 % CarryOut $end
+$var wire 9 & temp [8:0] $end
+$var reg 8 ' ALU_Res [7:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b1110 '
+b1110 &
+0%
+b1 $
+b0 #
+b1110 "
+b1101 !
+$end
+#10
+b1100 '
+b1100 "
+b1 #
+#20
+b1101 '
+b1101 "
+b10 #
+#30
+b11 #
+#40
+b11010 '
+b11010 "
+b100 #
+#50
+b110 '
+b110 "
+b101 #
+#60
+b11010 '
+b11010 "
+b110 #
+#70
+b10000110 '
+b10000110 "
+b111 #
+#80
+b1 '
+b1 "
+b1000 #
+#90
+b1101 '
+b1101 "
+b1001 #
+#100
+b1100 '
+b1100 "
+b1010 #
+#110
+b11110010 '
+b11110010 "
+b1011 #
+#120
+b11111110 '
+b11111110 "
+b1100 #
+#130
+b11110011 '
+b11110011 "
+b1101 #
+#140
+b1 '
+b1 "
+b1110 #
+#150
+b0 '
+b0 "
+b1111 #
+#160
+b1110 '
+b1110 "
+b0 #
