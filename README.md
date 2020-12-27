@@ -20,3 +20,5 @@ In this project, Arithmetic and Locigal Unit (ALU) is implemented using Verilog 
 | 1110  |   ALU_Out = 1 if A>B else 0|
 | 1111  |   ALU_Out = 1 if A=B else 0|
 
+The program can be found at 
+https://www.edaplayground.com/x/7qkK
